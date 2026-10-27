@@ -2,9 +2,9 @@
 
 An interactive 3D fairground built with **Three.js**. Explore a Ferris wheel from the ground or ride inside a gondola while experimenting with transforms, surface detail and lighting.
 
-[Open the live demo](https://daniel-aguilar03.github.io/ferris-wheel-simulation/) · [Watch the walkthrough](https://youtu.be/aYnfPb46d2c)
+[Open the live demo](https://daniel-aguilar03.github.io/ferris-wheel-simulation/) · [Watch the walkthrough](https://youtu.be/uEEn-7bamqQ)
 
-[![Ferris wheel walkthrough](https://img.youtube.com/vi/aYnfPb46d2c/hqdefault.jpg)](https://youtu.be/aYnfPb46d2c)
+[![Ferris wheel walkthrough](https://img.youtube.com/vi/uEEn-7bamqQ/hqdefault.jpg)](https://youtu.be/uEEn-7bamqQ)
 
 ## Highlights
 
